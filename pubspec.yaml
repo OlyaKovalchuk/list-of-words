@@ -1,0 +1,14 @@
+name: list_of_words
+description: list of words in diffenet languages
+version: 0.0.1
+homepage: https://github.com/OlyaKovalchuk/list-of-words
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  test: ^1.20.1
